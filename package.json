@@ -1,0 +1,29 @@
+{
+  "name": "fixtures-mongoose",
+  "version": "1.0.0",
+  "description": "mongoose fixtures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspdown/fixtures-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "fixtures",
+    "test",
+    "mongodb"
+  ],
+  "author": "Harold Ozouf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jspdown/fixtures-mongoose/issues"
+  },
+  "homepage": "https://github.com/jspdown/fixtures-mongoose#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "mongoose": "^4.4.19"
+  }
+}
